@@ -1,4 +1,5 @@
 # 公知自媒体名单
+
 > 请注意，这里的公知为公共知识分子，不是贬义词（不管你们信不信，反正我是信了😏）  
 
 <details>
@@ -21,21 +22,25 @@
 以下排名不分先后（欢迎补充）
 
 * ## 回形针PaperClip
+
   > b站首页：https://space.bilibili.com/258150656/dynamic  
   > 知乎首页：https://www.zhihu.com/people/paperclip
   * 《如何快速消灭全世界的森林》: b站视频已删除
     > 中国人吃肉破坏巴西雨林环境，视频明显让人感觉到误解和双标，具有强烈的误导性。  
-    * [如何评价回形针 paperclip《如何快速消灭全世界的森林》一视频？](https://www.zhihu.com/question/381432471/answer/1095637166)
+    * [如何评价回形针 paperclip《如何快速消灭全世界的森林》一视频？](https://www.zhihu.com/question/381432471/answer/1095637166) [已归档](<./Archive/回形针PaperClip/如何评价回形针 paperclip《如何快速消灭全世界的森林》一视频？ - 知乎.mhtml>)
   * 《自来水都从哪来》
     > 回形针PaperClip在国内国外视频平台中国地图版图出现明显差异  
-    * [如何看待回形针PaperClip的作品《自来水都从哪来》视频中，中国地图国内外视频平台差别对待的问题？](https://www.zhihu.com/question/381502037/answer/1097641628)
-  * [回形针道歉信](https://t.bilibili.com/369477361961524806?tab=2)
+    * [如何看待回形针PaperClip的作品《自来水都从哪来》视频中，中国地图国内外视频平台差别对待的问题？](https://www.zhihu.com/question/381502037/answer/1097641628) [已归档](<./Archive/回形针PaperClip/如何看待回形针PaperClip的作品《自来水都从哪来》视频中，中国地图国内外视频平台差别对待的问题？ - 知乎.mhtml>)
+  * [回形针道歉信](https://t.bilibili.com/369477361961524806?tab=2) [已归档](<./Archive/回形针PaperClip/回形针PaperClip-3月22日道歉信.mhtml>)
+
 * ## 大象公会
+
   > 知乎首页：https://www.zhihu.com/org/da-xiang-gong-hui-12
-  * [美国出现这样的疫情会比中国处理得好吗？](https://www.zhihu.com/question/368456273/answer/1094001287)
-  * [知乎都有哪些神预测的答案？](https://www.zhihu.com/question/20562561/answer/1083783118)
+  * [美国出现这样的疫情会比中国处理得好吗？](https://www.zhihu.com/question/368456273/answer/1094001287) [已归档](<./Archive/大象公会/美国出现这样的疫情会比中国处理得好吗？ - 知乎.mhtml>)
+  * [知乎都有哪些神预测的答案？](https://www.zhihu.com/question/20562561/answer/1083783118) [已归档](<./Archive/大象公会/知乎都有哪些神预测的答案？ - 知乎.mhtml>)
   * [黄章晋和大象公会、混乱博物馆、回形针PaperClip是怎样的关系？](https://www.zhihu.com/question/381578316/answer/1098081094)
     > 大象公会，混乱博物馆和回形针是一家人
+
 * ## 混乱博物馆
 
 
